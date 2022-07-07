@@ -1,7 +1,7 @@
-import userData from 'components/data/user.json';
+import userData from '../../../data/user.json';
 
-import { ProfileHead } from 'components/ProfileHead/ProfileHead';
-import { MetaInfo } from 'components/MetaInfo/MetaInfo';
+import { ProfileHead } from 'components/ProfileTask/ProfileHead/ProfileHead';
+import { MetaInfo } from 'components/Statistics/MetaInfo/MetaInfo';
 
 import { StyledProfile } from './Profile.styled';
 
