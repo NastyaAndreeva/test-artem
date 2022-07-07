@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/vebsterr/goit-react-hw-01-components/static/css/main.b3ff22a9.css",
-    "main.js": "/vebsterr/goit-react-hw-01-components/static/js/main.6f1fac5e.js",
-    "index.html": "/vebsterr/goit-react-hw-01-components/index.html",
-    "main.b3ff22a9.css.map": "/vebsterr/goit-react-hw-01-components/static/css/main.b3ff22a9.css.map",
-    "main.6f1fac5e.js.map": "/vebsterr/goit-react-hw-01-components/static/js/main.6f1fac5e.js.map"
+    "main.css": "/NastyaAndreeva/test-artem/static/css/main.b3ff22a9.css",
+    "main.js": "/NastyaAndreeva/test-artem/static/js/main.6f1fac5e.js",
+    "index.html": "/NastyaAndreeva/test-artem/index.html",
+    "main.b3ff22a9.css.map": "/NastyaAndreeva/test-artem/static/css/main.b3ff22a9.css.map",
+    "main.6f1fac5e.js.map": "/NastyaAndreeva/test-artem/static/js/main.6f1fac5e.js.map"
   },
   "entrypoints": [
     "static/css/main.b3ff22a9.css",
