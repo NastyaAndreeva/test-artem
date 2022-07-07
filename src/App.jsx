@@ -1,7 +1,5 @@
 import { Profile } from 'components/ProfileTask/Profile/Profile';
 
-console.log('Profile: ', Profile);
-
 import { Statistics } from 'components/Statistics/Statistics';
 import dataStatistics from '../../data/data';
 
