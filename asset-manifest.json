@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/NastyaAndreeva/test-artem/static/css/main.b3ff22a9.css",
-    "main.js": "/NastyaAndreeva/test-artem/static/js/main.6f1fac5e.js",
+    "main.js": "/NastyaAndreeva/test-artem/static/js/main.ae50fbb8.js",
     "index.html": "/NastyaAndreeva/test-artem/index.html",
     "main.b3ff22a9.css.map": "/NastyaAndreeva/test-artem/static/css/main.b3ff22a9.css.map",
-    "main.6f1fac5e.js.map": "/NastyaAndreeva/test-artem/static/js/main.6f1fac5e.js.map"
+    "main.ae50fbb8.js.map": "/NastyaAndreeva/test-artem/static/js/main.ae50fbb8.js.map"
   },
   "entrypoints": [
     "static/css/main.b3ff22a9.css",
-    "static/js/main.6f1fac5e.js"
+    "static/js/main.ae50fbb8.js"
   ]
 }
