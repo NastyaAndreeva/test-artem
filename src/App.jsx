@@ -4,10 +4,10 @@ import { Statistics } from 'components/Statistics/Statistics';
 import dataStatistics from '/data/data';
 
 import { FriendList } from 'components/FriendTask/FriendList/FriendList';
-import dataFriends from '/data/friends.json';
+import dataFriends from '/data/friends';
 
 import { TransactionHistory } from 'components/Transaction/TransactionHistory/TransactionHistory';
-import dataTransations from '/data/transactions.json';
+import dataTransations from '/data/transactions';
 
 export const App = () => {
   return (
