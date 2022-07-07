@@ -1,10 +1,11 @@
 import userData from '../../../data/user.json';
-console.log('userData: ', userData);
 
 import { ProfileHead } from 'components/ProfileTask/ProfileHead/ProfileHead';
 import { MetaInfo } from 'components/Statistics/MetaInfo/MetaInfo';
 
 import { StyledProfile } from './Profile.styled';
+
+console.log('userData: ', userData);
 
 export const Profile = () => {
   return (
