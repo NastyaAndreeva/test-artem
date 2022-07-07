@@ -13,9 +13,9 @@ export const App = () => {
   return (
     <>
       <Profile />
-      <Statistics title="Upload stats" stats={dataStatistics} />
+      {/* <Statistics title="Upload stats" stats={dataStatistics} />
       <FriendList friends={dataFriends} />
-      <TransactionHistory transactions={dataTransations} />
+      <TransactionHistory transactions={dataTransations} /> */}
     </>
   );
 };
